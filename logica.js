@@ -1,0 +1,1 @@
+alert("clase 2 repositoriosa")
